@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "cardname": "Musical chair",
+      "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/taco_beer_icon.png",
+      "livelink": "https://musical-chair.herokuapp.com/",
+      "codelink": "https://github.com/sasansinson/musical-chair"
+    },
+    {
+        "id": 2,
+        "cardname": "Banana Finder",
+        "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/soccer_icon.png",
+        "livelink": "https://fubzee.github.io/banana-finder/",
+        "codelink": "https://github.com/sasansinson/Lyric-finder"
+    },
+    {
+        "id": 3,
+        "cardname": "Weather Dashboard",
+        "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/fireworks_icon.png",
+        "livelink": "https://sasansinson.github.io/weather-dashboard/",
+        "codelink": "https://github.com/sasansinson/weather-dashboard"
+    },
+    {
+        "id": 4,
+        "cardname": "Note Taker",
+        "image": "https://raw.githubusercontent.com/sasansinson/final_portfolio/main/src/components/images/note.png",
+        "livelink": "https://sasan-note-taker.herokuapp.com/",
+        "codelink": "https://github.com/sasansinson/note-taker"
+    }
+]
