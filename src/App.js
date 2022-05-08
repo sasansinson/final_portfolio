@@ -6,7 +6,6 @@ import Projects from "./components/pages/Projects";
 import Contact from "./components/pages/Contact";
 import HeroImage from "./components/HeroImage";
 import FooterInfo from "./components/FooterInfo";
-import HeaderInfo from "./components/HeaderInfo"
 
 function App() {
   return (

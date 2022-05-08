@@ -39,14 +39,6 @@ a {
     width: 100%;
 }
 
-.Wrapper {
-    margin:2.5%;
-    padding: 1%;
-    width:19%;
-    float:left;
-    border: thin solid gray;
-}
-
 .projectWrapper {
         margin:3%;
         padding: 1%;
@@ -54,13 +46,14 @@ a {
         float:left;
         border: thin solid gray;
 }
-
-
-  .projectImg {
-    width: 60%;
-    margin:6%;
-    border: thin solid gray;
+.contactImg {
+    width:5%;
+    margin: 1%;
 }
+.portfolioImg {
+    width: 100%;
+}
+
 
 @media only screen and (max-width: 600px) {
     .projectImg {
@@ -70,15 +63,5 @@ a {
     }
   }
 
-  .btn {
-      margin: 1%;
-  }
 
-  .bold {
-      font-weight: 600;
-  }
-
-  .contactImg {
-      width:5%;
-      margin: 1%;
-  }
+  
