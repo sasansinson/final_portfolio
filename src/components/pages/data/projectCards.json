@@ -2,7 +2,7 @@
     {
         "id": 1,
         "cardname": "Write Diary",
-        "image": "https://raw.githubusercontent.com/sasansinson/final_portfolio/main/src/components/images/diary-screenshot.png",
+        "image": "https://raw.githubusercontent.com/sasansinson/final_portfolio/main/src/components/images/diary-screenshots.png",
         "livelink": "https://write-diary.netlify.app/",
         "codelink": "https://github.com/sasansinson/Diaries_project"
     },
