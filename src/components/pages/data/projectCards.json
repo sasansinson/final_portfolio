@@ -1,27 +1,34 @@
 [
     {
-      "id": 1,
+        "id": 1,
+        "cardname": "Write Diary",
+        "image": "https://raw.githubusercontent.com/sasansinson/final_portfolio/main/src/components/images/diary-screenshot.png",
+        "livelink": "https://write-diary.netlify.app/",
+        "codelink": "https://github.com/sasansinson/Diaries_project"
+    },
+    {
+      "id": 2,
       "cardname": "Musical chair",
       "image": "https://raw.githubusercontent.com/sasansinson/final_portfolio/main/src/components/images/musical-screenshot.png",
       "livelink": "https://musical-chair.herokuapp.com/",
       "codelink": "https://github.com/sasansinson/musical-chair"
     },
     {
-        "id": 2,
+        "id": 3,
         "cardname": "Banana Finder",
         "image": "https://raw.githubusercontent.com/sasansinson/final_portfolio/main/src/components/images/banana-finder.png",
         "livelink": "https://fubzee.github.io/banana-finder/",
         "codelink": "https://github.com/sasansinson/Lyric-finder"
     },
     {
-        "id": 3,
+        "id": 4,
         "cardname": "Weather Dashboard",
         "image": "https://raw.githubusercontent.com/sasansinson/final_portfolio/main/src/components/images/weather-dashboard.png",
         "livelink": "https://sasansinson.github.io/weather-dashboard/",
         "codelink": "https://github.com/sasansinson/weather-dashboard"
     },
     {
-        "id": 4,
+        "id": 5,
         "cardname": "Note Taker",
         "image": "https://raw.githubusercontent.com/sasansinson/final_portfolio/main/src/components/images/note.png",
         "livelink": "https://sasan-note-taker.herokuapp.com/",
