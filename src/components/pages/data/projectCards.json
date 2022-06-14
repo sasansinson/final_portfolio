@@ -26,12 +26,6 @@
         "image": "https://raw.githubusercontent.com/sasansinson/final_portfolio/main/src/components/images/weather-dashboard.png",
         "livelink": "https://sasansinson.github.io/weather-dashboard/",
         "codelink": "https://github.com/sasansinson/weather-dashboard"
-    },
-    {
-        "id": 5,
-        "cardname": "Note Taker",
-        "image": "https://raw.githubusercontent.com/sasansinson/final_portfolio/main/src/components/images/note.png",
-        "livelink": "https://sasan-note-taker.herokuapp.com/",
-        "codelink": "https://github.com/sasansinson/note-taker"
     }
+
 ]
